@@ -9,15 +9,15 @@
 |   | **Core React** |
 |1  | [What is React?](#what-is-react) |
 |2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
-|3  | [What is JSX?](#what-is-jsx) |
+|3  | [What is JSX?](#what-is-jsx) ✅|
 |4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
-|5  | [How to create components in React?](#how-to-create-components-in-react) |
-|6  | [When to use a Class Component over a Function Component?](#when-to-use-a-class-component-over-a-function-component) |
-|7  | [What are Pure Components?](#what-are-pure-components) |
-|8  | [What is state in React?](#what-is-state-in-react) |
-|9  | [What are props in React?](#what-are-props-in-react) |
+|5  | [How to create components in React?](#how-to-create-components-in-react) ✅|
+|6  | [When to use a Class Component over a Function Component?](#when-to-use-a-class-component-over-a-function-component) ✅|
+|7  | [What are Pure Components?](#what-are-pure-components) 🛑|
+|8  | [What is state in React?](#what-is-state-in-react) ✅|
+|9  | [What are props in React?](#what-are-props-in-react) ✅|
 |10 | [What is the difference between state and props?](#what-is-the-difference-between-state-and-props) |
-|11 | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly) |
+|11 | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly) ✅🛑|
 |12 | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)
 |13 | [What is the difference between HTML and React event handling?](#what-is-the-difference-between-html-and-react-event-handling) |
 |14 | [How to bind methods or event handlers in JSX callbacks?](#how-to-bind-methods-or-event-handlers-in-jsx-callbacks) |
